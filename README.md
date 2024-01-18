@@ -1,7 +1,11 @@
 # Creación de Reconocimiento Facial en Tiempo Real con JavaScript
 Hacemos una aplicación de reconocimiento facial usando la librería [face-api]
 
+#Este Proyecto es usado en proyectos reales de: 
+1. Salou TV  web: https://www.saloutv.com
+2. Salou Fitness TV   web: https://www.saloufitness.tv
 
+#gracias al equipo de Vilapubli.com
 
 
 1. Sigue este tutorial para crear una aplicación de Reconocimiento Facial a Tiempo Real a través de la webcam utilizando JavaScript utilizando la librería face-api de javascript
